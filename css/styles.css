@@ -1,0 +1,15 @@
+.green-btn{
+    background: #4CAF4F;
+    color: #fff;
+    font-weight:400;
+}
+
+.green-btn:hover{
+    background: #38853b;
+    color: #fff;
+}
+
+.green-btn:hover,.green-btn:focus{
+    background: #38853b;
+    color: #fff;
+}
